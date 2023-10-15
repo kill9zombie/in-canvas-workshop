@@ -1,0 +1,14 @@
+:root {
+  --foreground-color: #000;
+}
+
+#canvas {
+  border: 2px solid red;
+}
+
+.repeat {
+  width: 1000px;
+  height: 1000px;
+  background-repeat: repeat;
+  background-size: 10%;
+}
